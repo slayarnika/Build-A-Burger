@@ -1,0 +1,22 @@
+Receipt for m
+==============================
+Buns: plain, plain - $2.00
+Cheese: cheddar - $0.50
+Toasted: yes - $0.30
+Proteins: beef patty - $2.50
+Salads: lettuce - $0.40
+Sauces: ketchup - $0.10
+==============================
+Total Price: $5.80
+
+Receipt for m
+==============================
+Buns: plain - $1.00
+Cheese: cheddar - $0.20
+Toasted: medium - $0.00
+Proteins: beef patty - $1.20
+Salads: carrot - $0.20
+Sauces: none - $0.00
+==============================
+Total Price: $2.60
+
